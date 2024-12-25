@@ -1,0 +1,4 @@
+baseURL = 'rail3.github.io'
+languageCode = 'en-us'
+title = 'rail3.github.io'
+theme = 'ananke'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on rail3.github.io</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on rail3.github.io</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2024 22:29:37 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14th Street Busway - 5 Years Later</title>
+      <link>//localhost:1313/posts/14th-street-busway/</link>
+      <pubDate>Tue, 24 Dec 2024 22:29:37 -0500</pubDate>
+      <guid>//localhost:1313/posts/14th-street-busway/</guid>
+      <description>&lt;p&gt;In July 2019, the NYC Department of Transportation (DOT) established a &amp;ldquo;busway&amp;rdquo; on the major crosstown street of 14th Street in Manhattan as a pilot project. In June 2020, it was made permanent. Here is an &lt;a href=&#34;https://www.nyc.gov/html/brt/html/routes/14th-street.shtml&#34;&gt;explanation&lt;/a&gt; from the NYC DOT explaining how the busway works:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Every day between 6 AM and 10 PM, only buses, trucks and emergency vehicles may travel along Manhattan’s 14th Street between 3rd Avenue and 9th Avenue. All other vehicles may make local trips to access businesses, residences and garages along 14th Street, but drivers must make the next available right turn.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
